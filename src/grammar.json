@@ -240,6 +240,10 @@
         },
         {
           "type": "SYMBOL",
+          "name": "export_declaration"
+        },
+        {
+          "type": "SYMBOL",
           "name": "template_instantiation"
         },
         {
